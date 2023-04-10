@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Ref Botter By Camel#1001",
+    "version": "1.0",
+    "description": "Exploits a major referral vulnerability in the wanted.lol registration page.",
+    "permissions": [
+      "activeTab",
+      "tabs"
+    ],
+    "content_scripts": [
+      {
+        "matches": [
+          "https://wanted.lol/register*"
+        ],
+        "js": [
+          "content.js"
+        ]
+      }
+    ]
+  }
+  
