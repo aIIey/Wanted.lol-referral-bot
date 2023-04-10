@@ -5,7 +5,7 @@ Exploits a major referral vulnerability in the wanted.lol registration page.
 #educational purposes only
 
 
-step 1: change the referral code in content.js to yours and add the load unpacked to ur browser.
+step 1: change the referral code in content.js to yours and load unpacked to ur browser.
 
 step 2: it will auto run when you visit https://wanted.lol/register
 
